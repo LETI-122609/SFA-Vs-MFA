@@ -60,11 +60,16 @@ O relatório é desenvolvido em LaTeX, permitindo organizar o conteúdo por sec�
 └── README.md
 ```
 
+- `Imagens/`: diretório destinado às imagens utilizadas no documento.
+- `capa.tex`: capa do relatório.
+- `conclusoes.tex`: secção onde é feita a conclusão do relatório.
+- `desenvolvimento.tex`: secção onde o tema é desenvolvido em vários pontos.
+- `glossario.tex`: glossário onde são explicados certos termos/siglas importantes.
+- `Indice.tex`: conteúdo relativo ao índice, caso seja gerido separadamente.
+- `Introducao.tex`: secção de introdução.
 - `main.tex`: ficheiro principal, responsável pela configuração e compilação do relatório.
-- `indice.tex`: conteúdo relativo ao índice, caso seja gerido separadamente.
-- `introducao.tex`: secção de introdução.
-- `referencias.bib`: referências bibliográficas, caso seja utilizado BibTeX.
-- `imagens/`: diretório destinado às imagens utilizadas no documento.
+- `referencias.tex+`: referências bibliográficas, caso seja utilizado BibTeX.
+- `resumo.tex`: resumo do relatório.
 - `README.md`: descrição do projeto e da sua organização.
 
 A estrutura apresentada é ilustrativa e pode ser ajustada à organização efetiva do repositório.
