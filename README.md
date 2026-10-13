@@ -66,7 +66,7 @@ O relatório é desenvolvido em LaTeX, permitindo organizar o conteúdo por sec�
 - `desenvolvimento.tex`: secção onde o tema é desenvolvido em vários pontos.
 - `glossario.tex`: glossário onde são explicados certos termos/siglas importantes.
 - `Indice.tex`: conteúdo relativo ao índice, caso seja gerido separadamente.
-- `Introducao.tex`: secção de introdução.
+- `Introducao.tex`: secção de introdução do relatório.
 - `main.tex`: ficheiro principal, responsável pela configuração e compilação do relatório.
 - `referencias.tex`: referências bibliográficas.
 - `resumo.tex`: resumo do relatório.
