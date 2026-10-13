@@ -42,18 +42,21 @@ O relatório está organizado nas seguintes áreas principais:
 
 ## Organização dos ficheiros
 
-O relatório é desenvolvido em LaTeX, permitindo organizar o conteúdo por secções e facilitar a colaboração entre os elementos do grupo.
-
-Exemplo de organização dos ficheiros:
+O relatório é desenvolvido em LaTeX, permitindo organizar o conteúdo por secções e facilitar a colaboração entre os elementos do grupo, organizando dos ficheiros da seguinte forma:
 
 ```text
 .
-├── main.tex
-├── indice.tex
-├── introducao.tex
-├── referencias.bib
-├── imagens/
+├── Imagens/
 │   └── LOG_ISCTE_PRETO.jpg
+├── capa.tex
+├── conclusoes.tex
+├── desenvolvimento.tex
+├── glossario.tex
+├── Indice.tex
+├── Introducao.tex
+├── main.tex
+├── referencias.tex
+├── resumo.tex
 └── README.md
 ```
 
