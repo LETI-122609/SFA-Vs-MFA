@@ -68,7 +68,7 @@ O relatório é desenvolvido em LaTeX, permitindo organizar o conteúdo por sec�
 - `Indice.tex`: conteúdo relativo ao índice, caso seja gerido separadamente.
 - `Introducao.tex`: secção de introdução.
 - `main.tex`: ficheiro principal, responsável pela configuração e compilação do relatório.
-- `referencias.tex`: referências bibliográficas, caso seja utilizado BibTeX.
+- `referencias.tex`: referências bibliográficas.
 - `resumo.tex`: resumo do relatório.
 - `README.md`: descrição do projeto e da sua organização.
 
