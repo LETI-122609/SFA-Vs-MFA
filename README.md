@@ -21,7 +21,7 @@ Pretende-se compreender em que situações a implementação de MFA é necessár
 
 O relatório está organizado nas seguintes áreas principais:
 
-1. **Tipos de Autenticação** - 
+1. **Tipos de Autenticação** -  apresentação das diferentes categorias de fatores de autenticação.
 2. **Autenticação Simples e Autenticação Multifator** — apresentação dos conceitos, mecanismos de funcionamento e fatores de autenticação.
 3. **Comparação entre SFA e MFA** — análise das diferenças em termos de segurança, facilidade de utilização, implementação e experiência do utilizador.
 4. **Utilidade e necessidade da MFA** — avaliação da necessidade de autenticação multifator em função do risco e dos recursos protegidos.
