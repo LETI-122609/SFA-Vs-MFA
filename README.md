@@ -36,7 +36,7 @@ O relatório está organizado nas seguintes áreas principais:
 | **TOTP** | Geração de códigos temporários de utilização única. |
 | **FIDO2 e WebAuthn** | Autenticação baseada em credenciais criptográficas, incluindo passkeys e chaves de segurança. |
 | **Notificações push** | Aprovação de pedidos de autenticação através de aplicações móveis. |
-| **SMS e correio eletrónico** | Receção de códigos de utilização única para verificação da identidade. |
+| **SMS** | Receção de códigos de utilização única para verificação da identidade. |
 | **Smart Cards** | Cartões inteligentes utilizados na autenticação através de credenciais ou certificados digitais. |
 | **Biometria** | Utilização de características físicas, como impressão digital ou reconhecimento facial. |
 
