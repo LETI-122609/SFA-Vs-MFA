@@ -108,11 +108,11 @@ Entre as fontes de referência encontram-se:
 
 ## Elementos do grupo
 
-- Duarte Sá
-- Tiago Nobre
-- Martim Teixeira
-- Henrique Lopes
-- João Matos
+- Duarte Sá nº122609
+- Tiago Nobre nº122632
+- Martim Teixeira nº122636
+- Henrique Lopes nº122634
+- João Matos nº122639
 
 ## Unidade curricular
 
