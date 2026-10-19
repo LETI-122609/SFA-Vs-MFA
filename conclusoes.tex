@@ -1,0 +1,23 @@
+\section{Conclusões}
+
+\hspace{1cm} O presente trabalho analisou as diferenças entre a Autenticação Simples (SFA) e a Autenticação Multifator (MFA), considerando os seus fundamentos técnicos, vantagens, limitações e adequação a diferentes perfis de utilizador e contextos de risco.
+
+\hspace{1cm} A SFA, embora simples e de baixo custo, apresenta vulnerabilidades significativas, sobretudo quando baseada exclusivamente em palavras-passe. A MFA, ao exigir fatores de categorias distintas, reduz drasticamente o risco de comprometimento, segundo Meyer et al. (2023), em 99,22\% na população total e em 98,56\% mesmo quando as credenciais já foram divulgadas. Contudo, a sua eficácia depende do método escolhido: SMS e notificações push continuam vulneráveis a ataques como AiTM e push bombing, enquanto FIDO2/WebAuthn oferece resistência superior a phishing.
+
+\hspace{1cm} A análise por perfil de utilizador demonstrou que a necessidade de MFA varia consoante o risco e as características do utilizador. Para o utilizador comum, é fortemente recomendada em contas críticas. Para o utilizador idoso, deve ser adaptada às suas capacidades. Para utilizadores com acesso a informação sensível ou privilégios elevados, é essencial e deve ser complementada com gestão de sessões e monitorização contínua.
+
+\hspace{1cm} Conclui-se que não existe uma solução única: a escolha entre SFA e MFA deve ser informada pelo nível de risco, pela sensibilidade da informação e pelo perfil do utilizador. A autenticação baseada no risco, que ajusta o nível de verificação em tempo real, surge como a abordagem mais promissora para conciliar segurança e usabilidade.
+
+\subsection{Trabalhos Futuros}
+
+\hspace{1cm} De forma a concluirmos qual a melhor abordagem para cada perfil de utilizador, como continuação do trabalho até agora desenvolvido, iremos aprofundar e pôr em prática, os seguintes aspetos:
+
+\begin{itemize}[leftmargin=2cm]
+    \item \textbf{Matriz de decisão por perfil e risco:} Construir um modelo que, dado um perfil de utilizador e um contexto, recomenda SFA, MFA ou MFA obrigatório.
+
+    \item \textbf{Protótipo simples de autenticação adaptativa:} Login adaptativo, que só pede o segundo fator quando deteta sinais de risco (novo dispositivo, horário invulgar, várias tentativas falhadas, etc.).
+
+    \item \textbf{Análise de casos reais:} Comparar o que serviços concretos exigem (banca online, e-mail, plataformas de e-learning, redes sociais, etc.) e justificar se a escolha é proporcionada ao risco.
+
+    \item \textbf{Questionário de usabilidade:}  Inquérito a pessoas de perfis diferentes sobre a perceção de segurança e incómodo de cada método.
+\end{itemize}
